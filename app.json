@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TncExpo101",
-    "slug": "TncExpo101",
+    "name": "ReactNativeBasicComponents",
+    "slug": "ReactNativeBasicComponents",
     "platforms": [
       "ios",
       "android",
