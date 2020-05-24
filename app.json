@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ReactNativeBasicComponents",
-    "slug": "ReactNativeBasicComponents",
+    "name": "react-native-basic-components",
+    "slug": "react-native-basic-components",
     "platforms": [
       "ios",
       "android",
